@@ -1,6 +1,12 @@
 # 🎧 Spotify Listening Dashboard (2024–2025)
 
 This Power BI project visualizes my personal Spotify streaming history from December 2024 to May 2025. It explores key insights like total minutes listened, top artists and tracks, time-of-day trends, and monthly listening behavior.
+## 💬 Questions I Answered
+1.How much total time did I spend listening to music in hours?
+2.How many unique songs, artists did I listen to?
+3.What were my top 5 most played songs and artists?
+4.What was my most active listening day?
+
 
 ## 🔍 Key Features
 - ✅ Donut chart of top artists by total listening minutes
