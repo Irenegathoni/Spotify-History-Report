@@ -37,6 +37,7 @@ Personal Spotify export (`Streaming_History_Audio_2024-2025_3.json`)
 
 
 <img width="960" alt="spotify history dashboard" src="https://github.com/user-attachments/assets/452bc254-126b-4020-96d7-584ff3e504e3" />
-Made with data, caffeine, and too much Daniel Caesar. ☕🎶
+ 
+ Made with data, caffeine, and too much Daniel Caesar. ☕🎶
 
 
