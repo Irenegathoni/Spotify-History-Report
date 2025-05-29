@@ -9,17 +9,17 @@ This Power BI project visualizes my personal Spotify streaming history from Dece
 
 
 ## 🔍 Key Features
-- ✅ Donut chart of top artists by total listening minutes
-- ✅ Top 5 tracks and artists by engagement
-- ✅ Monthly trend analysis of listening time
-- ✅ Slicers for time of day, year, artist, and track
-- ✅ Clean, dark-mode aesthetic inspired by Spotify branding
+✅ Donut chart of top artists by total listening minutes
+✅ Top 5 tracks and artists by engagement
+✅ Dsay trend analysis of listening time
+✅ Slicers for time of day, year, artist, and track
+✅ Clean, dark-mode aesthetic inspired by Spotify branding
 
 ## 📊 Tools Used
-- Power BI
-- DAX
-- Power Query
-- JSON Data Transformation
+1.Power BI
+2.DAX
+3.Power Query
+4.JSON Data Transformation
 
 ## 📁 Data Source
 Personal Spotify export (`Streaming_History_Audio_2024-2025_3.json`)
@@ -30,15 +30,13 @@ Personal Spotify export (`Streaming_History_Audio_2024-2025_3.json`)
 🚧 Not applicable — local dashboard only
 
 ## 🧠 Lessons Learned
-- How to clean and model JSON streaming history
-- How to create custom DAX measures for time conversion and artist-based metrics
-- Dashboard design using brand-consistent color themes
-
----
-
+1.How to wrestle messy json streaming data into something clean, tidy, and ready for analysis.
+2.how to model that same data like a pro-shaping it to tell stories, not just show stats
+3.How to build custom dax measures that actually do what you want: from turning milliseconds into minutes, to pulling insights by artist
+4.How to design dashboards that don’t just look good, but feel right — using color themes that stay loyal to the vibe and the brand
 
 
+<img width="960" alt="spotify history dashboard" src="https://github.com/user-attachments/assets/452bc254-126b-4020-96d7-584ff3e504e3" />
 Made with data, caffeine, and too much Daniel Caesar. ☕🎶
 
-<img width="960" alt="SPOTIFY HISTORY REPORT DASHBOARD" src="https://github.com/user-attachments/assets/660d8651-d8e4-4b1a-a4a9-688dc1b79040" />
 
