@@ -11,7 +11,7 @@ This Power BI project visualizes my personal Spotify streaming history from Dece
 ## 🔍 Key Features
 ✅ Donut chart of top artists by total listening minutes
 ✅ Top 5 tracks and artists by engagement
-✅ Dsay trend analysis of listening time
+✅ Day trend analysis of listening time
 ✅ Slicers for time of day, year, artist, and track
 ✅ Clean, dark-mode aesthetic inspired by Spotify branding
 
